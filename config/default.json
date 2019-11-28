@@ -1,0 +1,7 @@
+{
+    "port": 3434,
+    "host": "localhost",
+    "database": "mean_db",
+    "user": "dac",
+    "password": "dac"
+}
